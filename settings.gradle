@@ -1,0 +1,2 @@
+rootProject.name = "NIODemo"
+include ':app'
